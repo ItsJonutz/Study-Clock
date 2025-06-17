@@ -13,3 +13,4 @@ This project aims to create a super customizable alarm/ on-screen clock.
 ## Non Functional requirements:
 - Smooth transitions/animations
 - Speed of application
+
