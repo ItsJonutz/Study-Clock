@@ -6,4 +6,4 @@ getting system time to be displayed on terminal
 
 17/06/2025
 trying to get GUI working with time displayed
-
+- I GOT IT TO DISPLAY
